@@ -17,6 +17,7 @@ victoryarch222@hotmail.com/koko123!@#KKK
 
 Sam
 http://213.229.123.109:3030/auth/signin   admin/Chelsea1
+http://85.234.139.193:7070/  place betting tracker
 
 Nick
 http://85.234.130.18:3030/auth/signin     admin/admin0711
